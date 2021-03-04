@@ -28,8 +28,10 @@
             |-- List.vue
 ```
 
-```
-项目命令：  
+
+项目命令： 
+
+``` 
     npm run build  发布命令 
     npm run watch  边监听边发布命令
     npm start  启动webpack-dev-server,默认端口8080  

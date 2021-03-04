@@ -4,7 +4,7 @@
 
 
 项目结构
-
+```
 |-- webpack-demo
     |-- .gitignore
     |-- package.json 安装依赖配置文件
@@ -26,6 +26,7 @@
             |-- Detail.vue
             |-- Home.vue
             |-- List.vue
+```
 
 ```
 项目命令：  
